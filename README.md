@@ -9,7 +9,7 @@ Decompression to restore the original data.
 
 Visualization of Huffman trees for better understanding.
 
-GUI (Tkinter) support for easy interaction (optional).
+GUI (Tkinter) support for easy interaction.
 
 ⚙️ Features
 
